@@ -3,3 +3,4 @@ ipykernel
 tensorflow
 pandas
 labelImg
+pillow
