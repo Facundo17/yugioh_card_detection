@@ -3,3 +3,6 @@ labels
 virtualenv
 test
 train
+classes.txt
+data.zip
+images
