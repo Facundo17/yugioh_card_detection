@@ -1,6 +1,5 @@
 opencv-python
 ipykernel
-tensorflow
 pandas
 labelImg
 pillow

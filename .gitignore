@@ -6,3 +6,4 @@ train
 classes.txt
 data.zip
 images
+venv
