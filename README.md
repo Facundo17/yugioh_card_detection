@@ -7,6 +7,11 @@ This project consists of detecting the types of cards from the Yu-Gi-Oh Card Gam
 - Trap
 
 # Dataset
-- 41 images.
-- 41 label files.
+- 81 images.
+- 81 label files.
 - labels made on labelImg
+
+# yolo_detect.py
+- To show te capacity of the card detection.
+- Credits to Edje Electronics
+- Link to his video: https://www.youtube.com/watch?v=r0RspiLG260&list=LL&index=4
