@@ -7,16 +7,16 @@ This project consists of detecting the types of cards from the Yu-Gi-Oh Card Gam
 - Trap
 
 # Dataset
-- 101 images.
-- 101 label files.
-- labels made on labelImg
+- 195 images.
+- 195 label files.
+- labels made on **labelImg**
 
 # Training
 - YoloV11 with google colab.
-- 91 training images.
-- 10 validation images.
+- 175 training images.
+- 20 validation images.
 - 60 epochs.
-- Time: 0.043 hours.
+- Time: 5 minutes.
 
 # yolo_detect.py
 - To show the capacity of the card detection.
